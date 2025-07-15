@@ -1,0 +1,60 @@
+{
+  "CostSummary": [
+    {
+      "Service": "Amazon EC2",
+      "Cost": 120.5,
+      "Unit": "USD",
+      "TimePeriod": "2025-07-01"
+    },
+    {
+      "Service": "Amazon S3",
+      "Cost": 45.2,
+      "Unit": "USD",
+      "TimePeriod": "2025-07-01"
+    },
+    {
+      "Service": "AWS Lambda",
+      "Cost": 15.75,
+      "Unit": "USD",
+      "TimePeriod": "2025-07-01"
+    },
+    {
+      "Service": "Amazon RDS",
+      "Cost": 60.0,
+      "Unit": "USD",
+      "TimePeriod": "2025-07-01"
+    },
+    {
+      "Service": "Amazon CloudFront",
+      "Cost": 25.3,
+      "Unit": "USD",
+      "TimePeriod": "2025-07-01"
+    }
+  ],
+  "TotalCostOverTime": [
+    {
+      "Date": "2025-06-26",
+      "TotalCost": 210.45
+    },
+    {
+      "Date": "2025-06-27",
+      "TotalCost": 220.1
+    },
+    {
+      "Date": "2025-06-28",
+      "TotalCost": 195.75
+    },
+    {
+      "Date": "2025-06-29",
+      "TotalCost": 225.0
+    },
+    {
+      "Date": "2025-06-30",
+      "TotalCost": 230.25
+    },
+    {
+      "Date": "2025-07-01",
+      "TotalCost": 266.75
+    }
+  ]
+}
